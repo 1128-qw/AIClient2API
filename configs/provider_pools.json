@@ -1,0 +1,17 @@
+{
+  "openai": [
+    {
+      "customName": "F3000-DeepSeek",
+      "OPENAI_API_KEY": "sk-N3IIkJLXKyECGoPKheq6C5BcqKLMrysjhQjmQeVUUpB6E1kp",
+      "OPENAI_BASE_URL": "https://ai.f3000.com/v1",
+      "checkModelName": null,
+      "checkHealth": false,
+      "notSupportedModels": [],
+      "uuid": "4f579c65-d3c5-41b1-9985-9f6e3d7bf39d",
+      "isHealthy": true,
+      "isDisabled": false,
+      "usageCount": 0,
+      "errorCount": 0
+    }
+  ]
+}
