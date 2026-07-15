@@ -41,7 +41,7 @@ const config = {
     maxRestartAttempts: 10,
     restartDelay: 1000, // 重启延迟（毫秒）
     masterPort: parseInt(process.env.MASTER_PORT) || 3100, // 主进程管理端口
-    args: process.argv.slice(2) // 传递给子进程的参数
+    args: process.argv.slice(2).concat(['--model-provider', 'openai']) // 传递给子进程的参数
 };
 
 /**
