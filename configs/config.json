@@ -1,0 +1,9 @@
+{
+    "REQUIRED_API_KEY": "qwertyuijkl123",
+    "SERVER_PORT": 3000,
+    "HOST": "0.0.0.0",
+    "MODEL_PROVIDER": "openai",
+    "SYSTEM_PROMPT_MODE": "none",
+    "PROVIDER_POOLS_FILE_PATH": "configs/provider_pools.json",
+    "CUSTOM_MODELS_FILE_PATH": "configs/custom_models.json"
+}
